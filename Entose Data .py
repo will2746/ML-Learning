@@ -23,7 +23,7 @@ import plotly.figure_factory as ff
 # In[29]:
 
 
-client = EntsoePandasClient(api_key='205f80f0-55c9-48aa-bd82-d603c4900119')
+client = EntsoePandasClient(api_key='#######################')
 
 start = pd.Timestamp('20171201', tz='Europe/Brussels')
 end = pd.Timestamp('20180701', tz='Europe/Brussels')
